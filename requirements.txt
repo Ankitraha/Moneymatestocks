@@ -62,6 +62,6 @@ urllib3==2.3.0
 webencodings==0.5.1
 wheel==0.45.1
 yarl==1.18.3
-yfinance==0.2.51
+yfinance==0.2.54
 xlsxwriter>=3.1.0
 reportlab>=4.0.0
